@@ -1,6 +1,6 @@
-//FaÁa um programa que receba quatro valores, I, A, B e C. I È um valor inteiro e 
-//positivo e A, B, C s„o valores reais. Escreva os n˙meros A, B, e C obedecendo a
-//tabela a seguir. Supondo que o valor digitado para I seja sempre um valor v·lido, ou
+//Fa√ßa um programa que receba quatro valores, I, A, B e C. I √© um valor inteiro e 
+//positivo e A, B, C s√£o valores reais. Escreva os n√∫meros A, B, e C obedecendo a
+//tabela a seguir. Supondo que o valor digitado para I seja sempre um valor v√°lido, ou
 //seja, 1, 2 ou 3.
 
 #include<stdio.h>
