@@ -1,4 +1,4 @@
-//cos=1 compara com o cos, se for ihual ta certo se n„o for errado, diferente de multiplo de 4, (-) por 2 (+), i = real
+//cos=1 compara com o cos, se for ihual ta certo se n√£o for errado, diferente de multiplo de 4, (-) por 2 (+), i = real
 
 #include<stdio.h>
 #include<math.h>
